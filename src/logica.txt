@@ -6,6 +6,7 @@
 1,1,2,3,5,8,13
 2,10,12,16,17,18,19,200
 
-Eu ligaria um dos interruptores por alguns minutos, desligaria, ligaria o próximo,  checaria por duas coisas: se a
-luz estiver acesa, essa está ligada ao segundo interruptor. Se estiver apagada, porém, quente, está ligada ao
-primeiro, se estiver apagada, porém, fria, está ligada ao terceiro
+Eu ligaria um dos interruptores por alguns minutos, desligaria, ligaria o próximo,
+iria até a sala onde as lampadas se encontram e checaria por duas coisas: se a
+luz estiver acesa, essa está ligada ao segundo interruptor. Se estiver apagada, porém, 
+quente, está ligada aoprimeiro, se estiver apagada, porém, fria, está ligada ao terceiro
